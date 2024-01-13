@@ -25261,7 +25261,7 @@
           {
             label: "Discord",
             icon: "TelegramIcon",
-            items: [{ label: "English", href: "https://t.me/snowyyields" }],
+            items: [{ label: "English", href: "https://t.me/MetisUnicorn" }],
           },
           {
             label: "Twitter",
@@ -32045,7 +32045,7 @@
                   small: !0,
                   href: "https://snowtrace.io/address/" + account,
                   mr: "16px",
-                  children: "View on ScrollScan",
+                  children: "View on MetisScan",
                 }),
                 Object(jsx_runtime.jsx)(WalletModal_CopyToClipboard, {
                   toCopy: account,

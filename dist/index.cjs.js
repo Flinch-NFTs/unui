@@ -7718,7 +7718,7 @@ var socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/snowyyields",
+        href: "https://t.me/MetisUnicorn",
       },
     ],
   },
@@ -8987,7 +8987,7 @@ var AccountModal = function (_a) {
           href: "https://snowtrace.io/address/" + account,
           mr: "16px",
         },
-        "View on ScrollScan"
+        "View on MetisScan"
       ),
       React__default["default"].createElement(
         CopyToClipboard,
