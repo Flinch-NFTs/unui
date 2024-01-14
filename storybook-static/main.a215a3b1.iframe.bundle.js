@@ -32043,7 +32043,7 @@
               children: [
                 Object(jsx_runtime.jsx)(LinkExternal.a, {
                   small: !0,
-                  href: "https://snowtrace.io/address/" + account,
+                  href: "https://andromeda-explorer.metis.io/address/" + account,
                   mr: "16px",
                   children: "View on MetisScan",
                 }),

@@ -24,7 +24,7 @@ const AccountModal: React.FC<Props> = ({ account, logout, onDismiss = () => null
     </Text>
     <Flex mb="32px">
       <LinkExternal small href={`https://andromeda-explorer.metis.io/address/${account}`} mr="16px">
-        View on Snowtrace
+        View on MetisScan
 
 
 
