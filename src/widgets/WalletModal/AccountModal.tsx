@@ -23,8 +23,10 @@ const AccountModal: React.FC<Props> = ({ account, logout, onDismiss = () => null
       {account}
     </Text>
     <Flex mb="32px">
-      <LinkExternal small href={`https://snowtrace.io/address/${account}`} mr="16px">
+      <LinkExternal small href={`https://andromeda-explorer.metis.io/address/${account}`} mr="16px">
         View on Snowtrace
+
+
 
         
       </LinkExternal>
